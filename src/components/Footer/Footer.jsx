@@ -45,7 +45,7 @@ const Footer = () => {
             </a>
             <p className="  pt-4">
               Crafted Coffee, Cozy Vibes, Unforgettable Moments – Your Perfect
-              Espresso Escape
+              Espresso Escape.
             </p>
             <a
               href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
